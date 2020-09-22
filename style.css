@@ -1,0 +1,143 @@
+body{
+    font-family: 'Poppins', sans-serif;
+  
+    width: 595px;
+    height: 842px;
+}
+.border-part{
+    height: 80px;
+    background-color:#203565;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: medium;
+    margin-bottom: 0;
+}
+.header{
+    border-bottom: 3px solid goldenrod;
+    padding: 0 50px;
+    line-height: 90px;
+    font-size: 18px;
+    text-align: left;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 24px;
+    width: 170px;
+    text-align: left;
+    height: 32px;
+    background: #E50019 0% 0% no-repeat padding-box;
+   padding-left: 10px;
+}
+.logo{
+    float: right;
+    padding: 10px;
+    margin-top: 25px;
+}
+.img-1{
+    top: 56px;   
+width: 341px;
+height: 410px;
+float: left;
+}
+.img{
+    top: 56px;
+left: 344px;
+width: 251px;
+height: 134px;
+}
+.second-heading{
+   margin-top: 0;
+    font-size: 40px;
+    line-height: 80px;
+    letter-spacing: 1px;
+    font-size: 25px;
+    padding-left: 15px;
+    text-align: left;
+}
+.section{
+    border: .3px solid gray;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 0;
+}
+.half-width{
+    width:45%;
+    float:left;
+    margin-left: 0%;
+    padding-left: 2%;
+    margin-right: 1%;
+    font-size: 8px;
+    margin-top: 0;
+}
+.one-fourth-width{
+    width:80%;
+    font-size: 8px;
+}
+.border{
+    background-color: #203565;
+    color: white;
+    padding: 5px 0;
+    margin-right: 20px;
+    padding-left: 10px;
+}
+.social-icons .fa-arrow-circle-down {
+    background-color:#203565;
+    color: white;
+    margin-top: 20px;
+    padding:9px 15px;
+}
+.social-icons .fa-expand-alt {
+    background-color:#203565;
+    color: white;
+    margin-top: 20px;
+    padding:9px 15px;
+}
+.one-third-width{
+    width:20%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.one-third-width p{
+    font-size: 8px;
+}
+.one-third-width .img{
+    width: 113px;
+height: 224px;
+}
+.measurement{
+ display: inline-block;
+ margin-right: 5px;
+ margin-top: 0;
+ margin-bottom: 0;
+}
+.bottom-part{
+margin-top: 150px;
+margin-bottom: 20px;
+margin-right: 20px;
+padding: 0;}
+.bottom-sentence{
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.small-letter{
+    font-size: 8px;
+}
+.footer-sentence{
+    padding-left: 2%;
+    margin-right: 1%;
+  border-bottom: 1px solid black;
+  display: block;
+  font-size: 8px;
+}
+.footer{
+    font-size: 4px;
+    padding-left: 2%;
+    margin-right: 1%;
+}
